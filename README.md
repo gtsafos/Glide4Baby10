@@ -5,3 +5,6 @@ First things first : Original circuit schematic can be found at this post https:
 
 I made a couple of modifications which worked for my project.
 This glide circuit is part of a Baby-10 sequencer project.
+
+The only thing I can brag for is the actual PCB that I crafted myself as a personal learning tutorial 
+on DIY Layout Creator software.
