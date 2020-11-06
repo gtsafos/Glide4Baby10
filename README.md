@@ -9,5 +9,6 @@
 3. The modified circuit was breadboarded and worked like a charm
 - I replaced the TL072 Op-Amp with an LM358 which resulted in a less noisy output signal.
 - I replaced the 1uF electrolytic capacitor C1 for a 0.1 uF K63 film capacitor for better and well defined gliding voltage-range output.
+- Check out the [modified circuit](https://github.com/gtsafos/Glide4Baby10/blob/main/glide_484_modified.jpg)
 
 4. The only thing I can brag for is the actual PCB that I crafted myself as a personal learning tutorial on [DIY Layout Creator](https://github.com/bancika/diy-layout-creator)
